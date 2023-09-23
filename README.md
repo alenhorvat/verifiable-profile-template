@@ -8,7 +8,12 @@ Important! This template repository contains an invented profile.
 
 ## Your task
 
-...is simple. Just edit the [my-profile](my-profile.yaml) file.
+...is simple.
+
+- Click on the "Use this template" button on the top-right
+  - Enter a name for your new repository. Repository name MUST be verifiable-profile
+  - Click on "Create repository from template".
+- Edit the [my-profile](my-profile.yaml) file.
 
 Everyone will be able to see your profile on (coming soon).
 
